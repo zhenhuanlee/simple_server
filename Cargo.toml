@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["zhenhuanlee <zhenhuanlee@outlook.com>"]
 
 [dependencies]
+
+[lib]
+name = "hello"
+path = "src/hello/lib.rs"
